@@ -1,12 +1,15 @@
-<h1 align="center">Projetos concluidos com o curso de Hashtag Treinamentos </h1>
+<h1 align="center">Introdução a Python </h1>
 
-Análises explorátorias com as principais bibliotecas para analise e visualização de dados.
+Introdução na análise de dados com pyhton.
+Análise de vendas para uma empresa de bermudas que possui 5 lojas e quer aumentar as vendas. 
 
-- Pandas
-- Numpy
-- Matplotlib
-- Ploty.express
+- Identificar o faturamento total;
+- Identificar o faturamento por loja;
+- Valor final de venda por produto/loja;
 
+## Conclusão:
+
+Neste caso é necessário disponibilizar o produto Bermuda Lisa nas demais unidades da Loja para alavancar as vendas da empresa.
 
 
 
